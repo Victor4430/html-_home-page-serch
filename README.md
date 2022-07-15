@@ -25,7 +25,7 @@
 
 ## 下载地址：  
 
-[杨晓东版-Releases](https://github.com/Victor4430/html_home-page-serch/releases)
+[杨晓东版_Releases](https://github.com/Victor4430/html_home-page-serch/releases)
 
 
 
