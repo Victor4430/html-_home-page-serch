@@ -29,7 +29,7 @@
 
 
 
-## 示例页面：    
+## 俺的示例页面 & 原作者源码：    
 
 + html+js+css版本：[https://demo443.com/](https://demo443.com/) 
 + html+js+css源码：[https://github.com/HolgerHuo/minimalist-search](https://github.com/HolgerHuo/minimalist-search)  
@@ -57,3 +57,5 @@
 上谷歌大家还是自备梯子吧，这里不提供了。  
 
 关于百度搜索出来百家号的问题大家可以搜一下油猴脚本，或者在关键词后面加入`-baijiahao`参数。
+
+其实  俺只是个搬运工  嘿嘿 (*^▽^*)
